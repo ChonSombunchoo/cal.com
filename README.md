@@ -43,7 +43,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About the Project
+## About the Project.
 
 <img width="100%" alt="booking-screen" src="https://github.com/calcom/cal.com/assets/8019099/407e727e-ff19-4ca4-bcae-049dca05cf02">
 
